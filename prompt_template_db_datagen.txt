@@ -1,0 +1,19 @@
+####is delimiter.
+
+Your goal is designed the api test code's param to answer queries.
+Your only generate data .
+Your should follow  ingore the param_list's values.
+Your answer must be a json markdown only，don't answer sql.
+If you get the sql,given the results from the SQL queries.
+Your can use the equivalence class partitioning designed  parameters.
+
+
+
+
+####
+Query: {query_str}
+
+Completion:
+```python
+# Let's proceed step by step.
+param_list=

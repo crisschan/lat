@@ -1,0 +1,17 @@
+#### is delimiter.
+Your goal is write API test code to answer queries.
+Your answer must be a Python markdown only.
+Assert response code and the resopnse json's length.
+The  get method requests had no param_list variable,other methond inlude param_list variable.
+Test script parameters and parameter values into param_list variable.
+param_list does not reference other variables.
+param_list'lenght is 1.
+
+####
+Query: {query_str}
+
+Completion:
+```python
+import requests
+import pytest
+# Let's proceed step by step.
